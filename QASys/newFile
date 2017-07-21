@@ -1,0 +1,7 @@
+Create a folder
+git init
+Add the repository created online as a remote using: git remote add origin https://github.com/abhirammv/<reponame>.git
+Make the local repo, reflect the online repo: git pull origin master
+After which, if you want to make some changes, go ahead
+Then, commit every change
+Then push it back to the online repository so that it reflects the work you've done: git push origin master
